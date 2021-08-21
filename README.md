@@ -8,5 +8,5 @@
 
 [Ejercicio Base de datos](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Bases%20de%20datos.pdf)
 
-[Ejercicios Python](https://github.com/LeonardoCastillo29/Mineria-de-datos/blob/main/Ej_Python_1844452.ipynb)
+[Ejercicios Python (basicos)](https://github.com/LeonardoCastillo29/Mineria-de-datos/blob/main/Ej_Python_1844452.ipynb)
 
