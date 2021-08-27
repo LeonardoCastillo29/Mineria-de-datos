@@ -10,3 +10,4 @@
 
 [Ejercicios Python (basicos)](https://github.com/LeonardoCastillo29/Mineria-de-datos/blob/main/Ej_Python_1844452.ipynb)
 
+[Practica 1 Limpieza de datos](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo5.ipynb)
