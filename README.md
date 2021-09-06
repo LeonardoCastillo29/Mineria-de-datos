@@ -14,5 +14,5 @@
 
 [Avance 1 PIA](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance1_PIA_Equipo5.ipynb)
 
-[Presentacion equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Presentacion_%7BArboles%20de%20decision%7D_%7B5%7D.pdf)
+[Presentacion_Arboles de decision_equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Presentacion_%7BArboles%20de%20decision%7D_%7B5%7D.pdf)
 
