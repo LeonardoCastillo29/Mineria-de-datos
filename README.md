@@ -27,10 +27,10 @@
 
 [Avance 2 PIA Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance2_PIA_001_Equipo5.ipynb)
 
-[Avancer 2 PIA Equipo 5 corregido] (https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance2.1_PIA_001_Equipo5.ipynb)
+[Avancer 2 PIA Equipo 5 corregido](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance2.1_PIA_001_Equipo5.ipynb)
 
 
 ## Fase 3
-[Ejercicio tecnicas de mineria (https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ejercicio_de_técnicas_de_m%C3%ADneria.ipynb)
+[Ejercicio tecnicas de mineria](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ejercicio_de_técnicas_de_m%C3%ADneria.ipynb)
 
 [Notebook Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Notebook_Final.ipynb)
