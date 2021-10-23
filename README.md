@@ -34,3 +34,5 @@
 [Ejercicio tecnicas de mineria](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ejercicio_de_técnicas_de_m%C3%ADneria.ipynb)
 
 [Notebook Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Notebook_Final.ipynb)
+
+[Poster Equipo 5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Poster_Equipo_5.pdf)
